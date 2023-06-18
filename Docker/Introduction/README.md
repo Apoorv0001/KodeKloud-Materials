@@ -1,6 +1,6 @@
 ## Introduction:
 Docker is a very popular and powerful open-source containerization platform that is used for building, deploying, and running applications. Docker allows us to decouple the application/software from the underlying infrastructure.
-<!--  -->
+
 ## Why do we need Docker:- 
 Compatibility issue
 Long setup time
