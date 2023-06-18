@@ -1,4 +1,5 @@
-## Introduction:
+# Introduction:
+
 Docker is a very popular and powerful open-source containerization platform that is used for building, deploying, and running applications. Docker allows us to decouple the application/software from the underlying infrastructure.
 
 ## Why do we need Docker:- 
@@ -57,3 +58,5 @@ To remove images make sure that no containers are runnning off of that image bef
 Pull - download an image
 ``` docker pull nginx ```
 Docker pull command is used to pull image and not run the container 
+
+command to delete all the available images: ```docker rmi $(docker images -aq)```
